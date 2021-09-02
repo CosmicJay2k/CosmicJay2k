@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CosmicJay2k
+- 👋 Hi, I’m John Tannenberg.
 - 👀 I’m interested in Sci-Fi books, comedy and cheap wine.
 - 🌱 I’m currently learning Web Development.
 - 📫 You can reach me here on GitHub.
