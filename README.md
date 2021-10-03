@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Tannenberg.
 - 👀 I’m interested in Sci-Fi books, comedy and cheap wine.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Software Development.
 - 📫 You can reach me here on GitHub.
 
 <!---
